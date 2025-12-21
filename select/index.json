@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サヨナラ予報",
+  "base_artist": "Weather Planet",
+  "createdAt": "2025-12-21T01:32:30.004979Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サヨナラ予報",
+      "artist": "Weather Planet",
+      "has_synced": false,
+      "path": "select/pl_01_サヨナラ予報_Weather_Planet.txt"
+    }
+  ]
+}
